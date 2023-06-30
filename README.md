@@ -39,7 +39,7 @@ https://github.com/csunny/DB-GPT/assets/17919400/654b5a49-5ea4-4c02-b5b2-72d089d
 <!-- <video id="video" controls="" preload="auto" poster="assets/exector_sql.png">
       <source id="mp4" src="https://github.com/csunny/DB-GPT/assets/17919400/654b5a49-5ea4-4c02-b5b2-72d089dcc1f0" type="video/mp4">
 </videos> -->
-
+<!-- 
 <p align="left">
   <img src="./assets/exector_sql.png" width="800px" />
 </p>
@@ -51,7 +51,7 @@ https://github.com/csunny/DB-GPT/assets/17919400/654b5a49-5ea4-4c02-b5b2-72d089d
 <p align="left">
   <img src="./assets/knownledge_qa_en.jpg" width="800px" />
 </p>
-
+-->
 ## Features
 
 Currently, we have released multiple key features, which are listed below to demonstrate our current capabilities:
