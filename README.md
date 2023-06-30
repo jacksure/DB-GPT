@@ -34,7 +34,6 @@ DB-GPT is an experimental open-source project that uses localized GPT large mode
 
 Run on an RTX 4090 GPU.
 
-https://github.com/csunny/DB-GPT/assets/17919400/654b5a49-5ea4-4c02-b5b2-72d089dcc1f0
 
 
 <!-- 
